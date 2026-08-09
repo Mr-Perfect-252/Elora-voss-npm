@@ -1,0 +1,10 @@
+# Files excluded from the published npm package
+node_modules/
+test/
+.smoke/
+*.log
+.DS_Store
+elora-voss/
+*.md
+!README.md
+package-lock.json

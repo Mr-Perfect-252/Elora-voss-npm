@@ -1,0 +1,5 @@
+id,topic,ran_at,word_count,context_file,output_file
+1,how does general relativity connect to satelite times ?,2026-06-27T16:15:40.311Z,834,context_001.md,output_001.md
+2,About wuhan virus,2026-07-01T15:42:26.503Z,1474,context_002.md,output_002.md,groq,wikipedia,wikipedia
+3,The dark reality of mother teresa,2026-07-02T14:15:48.339Z,1460,context_003.md,output_003.md,groq,wikipedia,wikipedia
+4,hi,2026-07-05T02:33:37.305Z,284,context_004.md,output_004.md,llama,wikipedia,wikipedia

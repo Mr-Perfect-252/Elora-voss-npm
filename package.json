@@ -1,0 +1,49 @@
+{
+  "name": "elora-voss",
+  "version": "0.4.0",
+  "description": "A research and authoring agent that searches the web, builds a verified knowledge base, and writes publication-quality narrative articles.",
+  "type": "module",
+  "bin": {
+    "elora-voss": "bin/elora-voss.js"
+  },
+  "main": "./src/cli.js",
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "init": "elora-voss init",
+    "set-key": "elora-voss set-key",
+    "set-max-results": "elora-voss set-max-results",
+    "research": "elora-voss research",
+    "history": "elora-voss history",
+    "last": "elora-voss last",
+    "preferences": "elora-voss preferences",
+    "wizard": "elora-voss init --no-wizard",
+    "version": "elora-voss --version",
+    "help": "elora-voss --help"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.7.0",
+    "duck-duck-scrape": "^2.2.5",
+    "unsplash-js": "^8.0.0",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "inquirer": "^12.1.0",
+    "boxen": "^7.1.1"
+  },
+  "keywords": [
+    "ai",
+    "writing",
+    "research",
+    "agent",
+    "cli",
+    "groq"
+  ],
+  "license": "MIT",
+  "author": "",
+  "homepage": "https://github.com/elora-voss/elora-voss"
+}

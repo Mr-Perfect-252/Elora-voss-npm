@@ -1,0 +1,13 @@
+# elora-voss preferences
+# Edit this file to personalise your articles.
+# Lines starting with # are comments and are ignored.
+
+TONE=intelligent and narrative, like a magazine feature
+LENGTH=long-form (800-1200 words)
+NICHE=general science and technology
+AUDIENCE=curious general readers with no specialist knowledge
+LANGUAGE=English
+STYLE=editorial essay
+OUTPUT_FORMAT=markdown
+INCLUDE_IMAGES=true
+IMAGE_PROVIDER=unsplash
