@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/badge/npm-v0.4.0-blue)](https://www.npmjs.com/package/elora-voss)
 [![node](https://img.shields.io/badge/node-%E2%89%A518-green)](https://nodejs.org)
-[![license](https://img.shields.io/badge/license-MIT-purple)](./LICENSE)
+[![license](https://img.shields.io/badge/license-Apache-purple)](./LICENSE)
 [![made with](https://img.shields.io/badge/UI-chalk%20%2B%20ora%20%2B%20inquirer-cyan)](https://github.com/chalk/chalk)
 
 > A research and authoring agent. Searches the web, builds a verified knowledge base, writes publication-quality narrative articles — from your terminal.
