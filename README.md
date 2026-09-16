@@ -208,4 +208,11 @@ The interactive editor exposes the most-edited knobs (TONE, LENGTH, STYLE, AUDIE
 
 ## License
 
-MIT
+
+
+Copyright (c) 2026 Sohan Ananthula. All rights reserved.
+
+This is distributed under the Mozilla Public License, v. 2.0. 
+Any one using this for commercial processes must retain the above copyright notice 
+and attribution to Sohan Ananthula within its open-source legal credits or 
+documentation.
